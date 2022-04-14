@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chongxe1991@gmail.com
+	name = Xin Er Chong
